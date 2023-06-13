@@ -1,0 +1,21 @@
+Container,Treatment,Site,PattyMass,D0Larvae,D14Larvae
+CNTRL 1,0,PS,273.177,1,1
+CNTRL 2,0,PS,308.99,1,1
+CNTRL 3,0,PS,362.374,0,1
+CNTRL 4,0,PS,338.748,1,1
+CNTRL 5,0,PS,313.16,1,1
+CNTRL 6,0,Fire,289.828,1,1
+CNTRL 7,0,Fire,285.196,1,1
+CNTRL 8,0,Fire,281.4,1,1
+CNTRL 9,0,Fire,174.339,1,1
+CNTRL 10,0,Fire,268.403,1,1
+Treated 1,1,PS,88.851,0,0
+Treated 2,1,PS,16.714,0,0
+Treated 3,1,PS,343.349,0,0
+Treated 4,1,PS,326.49,0,0
+Treated 5,1,PS,294.554,0,0
+Treated 6,1,Fire,278.84,0,0
+Treated 7,1,Fire,79.696,0,0
+Treated 8,1,Fire,108.949,0,0
+Treated 9,1,Fire,323.42,0,0
+Treated 10,1,Fire,312.869,0,0
